@@ -8,7 +8,7 @@ Costruiamo progetti tech-driven con un approccio pratico, incrementale e orienta
 ## 🧑‍💻 Chi siamo
 
 - **Valeria Moliterno** — @vmoliterno  
-- **Ivan Bonmassar** — @bonmassar.ivan  
+- **Ivan Bonmassar** — @bonmassarivan  
 
 Condividiamo:
 
